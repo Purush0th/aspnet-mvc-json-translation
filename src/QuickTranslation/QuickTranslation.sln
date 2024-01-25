@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickTranslation", "QuickTranslation.csproj", "{EC3F3355-94BC-41AE-82EF-2923B5B41DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3F3355-94BC-41AE-82EF-2923B5B41DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3F3355-94BC-41AE-82EF-2923B5B41DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3F3355-94BC-41AE-82EF-2923B5B41DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3F3355-94BC-41AE-82EF-2923B5B41DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4E2CC5A-1501-4915-9A75-E146B6BBC73C}
+	EndGlobalSection
+EndGlobal
